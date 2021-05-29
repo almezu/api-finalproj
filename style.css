@@ -1,0 +1,45 @@
+.quoteBox {
+    background-color: #DE7C5A;
+    width: 25%;
+    float: right;
+    margin-left: 5px;
+    margin-right: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    padding: 5px;
+    border-radius: 10px;
+}
+.containerbox {
+    width: 75%;
+    margin: 0 auto;
+    background-color: #fff9fa;
+}
+.info a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+h1{
+    font-weight: 900;
+    background-color: #B10F2E;
+    color: white;
+    padding: 30px;
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content {
+    width: 100%;
+}
+.info{
+    padding: 1px 20px;
+}
+.calcuBox{
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+.result{
+    font-weight: 700;
+}
